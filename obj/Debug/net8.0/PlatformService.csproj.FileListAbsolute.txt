@@ -148,3 +148,8 @@ C:\Users\ALEX TOP\Desktop\.NET\New folder\PlatformService\bin\Debug\net8.0\out\o
 C:\Users\ALEX TOP\Desktop\.NET\New folder\PlatformService\bin\Debug\net8.0\out\out\appsettings.json
 C:\Users\ALEX TOP\Desktop\.NET\New folder\PlatformService\bin\Debug\net8.0\out\out\PlatformService.deps.json
 C:\Users\ALEX TOP\Desktop\.NET\New folder\PlatformService\bin\Debug\net8.0\out\out\PlatformService.runtimeconfig.json
+C:\Users\ALEX TOP\Desktop\.NET\New folder\PlatformService\bin\Debug\net8.0\PlatformService.staticwebassets.endpoints.json
+C:\Users\ALEX TOP\Desktop\.NET\New folder\PlatformService\obj\Debug\net8.0\PlatformService.sourcelink.json
+C:\Users\ALEX TOP\Desktop\.NET\New folder\PlatformService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ALEX TOP\Desktop\.NET\New folder\PlatformService\obj\Debug\net8.0\staticwebassets\msbuild.PlatformService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ALEX TOP\Desktop\.NET\New folder\PlatformService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
